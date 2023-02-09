@@ -1,0 +1,1 @@
+This project is for creating unique vehicles with attributes, storing them to a database, and perhaps simulating traffic.
