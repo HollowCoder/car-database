@@ -34,7 +34,7 @@ class Lookup(ctk.CTk):
         self.displayBox.delete("0.0", "200.0")
         text = self.createText()
         print(text)
-        self.displayBox.insert("1.0", "Model License Plate Color")
+        #self.displayBox.insert("1.0", "Model License Plate Color")
         self.displayBox.insert("0.0", text)
 
     def createText(self):

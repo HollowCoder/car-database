@@ -3,7 +3,7 @@ import random as r
 import vehicle
 from database_client import DatabaseClient
 from vehicle import Vehicle
-from lane import Lane
+#from lane import Lane
 from read_text import open_file
 #import g
 db = DatabaseClient()
