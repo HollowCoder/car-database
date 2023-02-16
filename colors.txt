@@ -1,9 +1,6 @@
 Red
-Red3
 Green
-Green3
 Blue
-Blue3
 Yellow
 Orange
 Brown
